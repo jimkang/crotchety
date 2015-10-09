@@ -14,10 +14,6 @@ Usage
 
     make run    
 
-Or run [wzrd](https://github.com/maxogden/wzrd) directly:
-
-    wzrd index.js
-
 Then, wzrd will say something like:
 
     wzrd index.js
