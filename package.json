@@ -1,0 +1,33 @@
+{
+  "name": "crotchety-dismissal",
+  "version": "1.0.0",
+  "description": "Issues old conservative-style dismissals over a concern about a product.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/crotchety-dismissal.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/crotchety-dismissal/issues"
+  },
+  "homepage": "https://github.com/jimkang/crotchety-dismissal",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^8.1.3",
+    "d3": "^3.5.5",
+    "director": "^1.2.8",
+    "idmaker": "^0.1.1",
+    "lodash": "^3.6.0",
+    "smash": "0.0.14",
+    "uglify-js": "^2.4.17"
+  }
+}
